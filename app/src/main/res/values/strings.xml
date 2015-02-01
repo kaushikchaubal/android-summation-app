@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidSummation</string>
+
+    <string name="hello_world">Kaushik\'s Awesome App</string>
+    <string name="action_settings">Settings</string>
+    <string name="appTitle">Special Addition App</string>
+    <string name="secondTitle">Let\'s add two numbers today!</string>
+    <string name="result"></string>
+    <string name="firstNumber">Enter first number</string>
+    <string name="secondNumber">Enter second number</string>
+    <string name="addButton">Add</string>
+</resources>
